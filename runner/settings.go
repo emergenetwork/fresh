@@ -127,6 +127,9 @@ func buildName() string {
 }
 
 func buildArgs() []string {
+	if settings["build_args"] == "" {
+		return []string{root()}
+	}
 	return strings.Split(settings["build_args"], ",")
 }
 
