@@ -8,7 +8,7 @@ If the web framework you are using supports the Fresh runner, it will show build
 
 It currently works with [Traffic](https://github.com/pilu/traffic), [Martini](https://github.com/codegangsta/martini) and [gocraft/web](https://github.com/gocraft/web).
 
-**Note this is a fork of the original, the original seems dead so we are taking patch**
+**Note this is a fork of the original, the original seems dead so we are taking patches**
 
 ## Installation
 
